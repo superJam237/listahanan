@@ -12,7 +12,7 @@ This exam does three things offline.
 ## Getting Started
 1. Install the dependecies by running `npm install` in the root folder.
 2. Install the dependecies in the server folder.
-3. Start the server by running `npm run server` to boot the node server.
+3. Start the server by running `npm run serve` to boot the node server.
 4. Start the json server using `npm run devAPI` this will serve as your local mock test environment.
 
 ### Compiles and hot-reloads for development
