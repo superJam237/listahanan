@@ -28,11 +28,12 @@
   },
   "include": [
     "src/**/*.ts",
+    "*.ts",
     "src/**/*.tsx",
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+  , "src/use/generateKeyPair.js", "server.ts"  ],
   "exclude": [
     "node_modules"
   ]
