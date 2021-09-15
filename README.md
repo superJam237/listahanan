@@ -4,8 +4,8 @@ Listahanan is a dialect word in Visaya which means "Notes". This app describes f
 ## Introduction
 This app does five things offline.
 1. Account Creation for user who wish to add & edit notes.
-2. Authenticated user can create and edit notes.
-3. The notes is encrypted upon sending to ther server
+2. Authenticated user can retrieved their notes.
+3. The notes is encrypted upon sending to ther server.
 4. User can retrieved their notes in fully decrypted format.
 5. User can update/edit the notes
 
