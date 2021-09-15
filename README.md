@@ -2,7 +2,7 @@
 Listahanan is a dialect word in Visaya which means "Notes". This app describes for writing and editing notes using Subtle Crypto API.
 
 ## Introduction
-This exam does five things offline.
+This app does five things offline.
 1. Account Creation for user who wish to add & edit notes.
 2. Authenticated user can create and edit notes.
 3. The notes is encrypted upon sending to ther server
